@@ -1,0 +1,45 @@
+[Fri Apr  8 16:27:15 2016] Save_Client(): Error Openng cdf file for write!
+[Fri Apr  8 16:29:49 2016] Save_Client(): Saving Ali(AaLyIa33) 4 Messages
+[Fri Apr  8 16:29:49 2016] Load_CDFs(): Loaded: Ali.cdf
+[Fri Apr  8 16:29:49 2016] msq_cpy(): Copied: @é: Ali
+[Fri Apr  8 16:29:49 2016] msq_cpy(): Copied: Ayoush: Kifak?
+[Fri Apr  8 16:29:49 2016] msq_cpy(): Copied: Walaa: Hi
+[Fri Apr  8 16:29:49 2016] msq_cpy(): Copied: Walaa: Kifak?
+[Fri Apr  8 16:29:49 2016] insert_cli(): Inserted: Ali(AaLyIa33)
+[Fri Apr  8 16:39:44 2016] Save_Client(): Saving Ayoush(Chebaa123) 4 Messages
+[Fri Apr  8 16:39:44 2016] Load_CDFs(): Loaded: Ayoush.cdf
+[Fri Apr  8 16:39:44 2016] msq_cpy(): Copied: @Ë{: Ayoush
+[Fri Apr  8 16:39:44 2016] msq_cpy(): Copied: Rim: Kifik?
+[Fri Apr  8 16:39:44 2016] msq_cpy(): Copied: Ali: Hi
+[Fri Apr  8 16:39:44 2016] msq_cpy(): Copied: Ali: Kifik?
+[Fri Apr  8 16:39:44 2016] insert_cli(): Inserted: Ayoush(Chebaa123)
+[Fri Apr  8 16:39:44 2016] Load_CDFs(): Loaded: Ali.cdf
+[Fri Apr  8 16:39:44 2016] msq_cpy(): Copied: ÿÿÿÿÿÿÿÿ: Ali
+[Fri Apr  8 16:39:44 2016] msq_cpy(): Copied: Ayoush: Kifak?
+[Fri Apr  8 16:39:44 2016] msq_cpy(): Copied: Walaa: Hi
+[Fri Apr  8 16:39:44 2016] msq_cpy(): Copied: Walaa: Kifak?
+[Fri Apr  8 16:39:44 2016] insert_cli(): Inserted: Ali(AaLyIa33)
+[Fri Apr  8 16:43:14 2016] Load_CDFs(): Loaded: Ayoush.cdf
+[Fri Apr  8 16:43:14 2016] msq_cpy(): Copied: àqÏíÿÿÿÿP™îÿÿÿÿ`¥°ïÿÿÿÿÐLzðÿÿÿÿ`^¦: Ayoush
+[Fri Apr  8 16:43:14 2016] msq_cpy(): Copied: Rim: Kifik?
+[Fri Apr  8 16:43:14 2016] msq_cpy(): Copied: Ali: Hi
+[Fri Apr  8 16:43:14 2016] msq_cpy(): Copied: Ali: Kifik?
+[Fri Apr  8 16:43:14 2016] insert_cli(): Inserted: Ayoush(Chebaa123)
+[Fri Apr  8 16:43:14 2016] Load_CDFs(): Loaded: Ali.cdf
+[Fri Apr  8 16:43:14 2016] msq_cpy(): Copied: /etc/localtime: Ali
+[Fri Apr  8 16:43:14 2016] msq_cpy(): Copied: Ayoush: Kifak?
+[Fri Apr  8 16:43:14 2016] msq_cpy(): Copied: Walaa: Hi
+[Fri Apr  8 16:43:14 2016] msq_cpy(): Copied: Walaa: Kifak?
+[Fri Apr  8 16:43:14 2016] insert_cli(): Inserted: Ali(AaLyIa33)
+[Fri Apr  8 16:46:52 2016] Load_CDFs(): Loaded: Ayoush.cdf
+[Fri Apr  8 16:46:52 2016] msq_cpy(): Copied: àqÏíÿÿÿÿP™îÿÿÿÿ`¥°ïÿÿÿÿÐLzðÿÿÿÿ`^¦: Ayoush
+[Fri Apr  8 16:46:52 2016] msq_cpy(): Copied: Rim: Kifik?
+[Fri Apr  8 16:46:52 2016] msq_cpy(): Copied: Ali: Hi
+[Fri Apr  8 16:46:52 2016] msq_cpy(): Copied: Ali: Kifik?
+[Fri Apr  8 16:46:52 2016] insert_cli(): Inserted: Ayoush(Chebaa123)
+[Fri Apr  8 16:46:52 2016] Load_CDFs(): Loaded: Ali.cdf
+[Fri Apr  8 16:46:52 2016] msq_cpy(): Copied: /etc/localtime: Ali
+[Fri Apr  8 16:46:52 2016] msq_cpy(): Copied: Ayoush: Kifak?
+[Fri Apr  8 16:46:52 2016] msq_cpy(): Copied: Walaa: Hi
+[Fri Apr  8 16:46:52 2016] msq_cpy(): Copied: Walaa: Kifak?
+[Fri Apr  8 16:46:52 2016] insert_cli(): Inserted: Ali(AaLyIa33)

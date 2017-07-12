@@ -1,0 +1,21 @@
+[Thu Jun  2 20:19:21 2016] main(): Port: 1024
+[Thu Jun  2 20:19:21 2016] main(): 127.0.0.1:1024
+[Thu Jun  2 20:19:21 2016] main(): connection established, Sending Chat ID.....
+[Thu Jun  2 20:19:35 2016] Send_Packet(): Sending: 1$Alloush$SERVER$LOGIN_REQ via socket 3
+[Thu Jun  2 20:19:36 2016] Send_Packet(): Sending: 1$Alloush$SERVER$Alloush&AaLyIa33 via socket 3
+[Thu Jun  2 20:19:36 2016] Recive_Packet(): Recived: 1$Server$Alloush$LOGIN_ACK`
+[Thu Jun  2 20:19:36 2016] str_split(): Split "1$Server$Alloush$LOGIN_ACK" in 4 tokens
+[Thu Jun  2 20:19:36 2016] str_split(): 1
+[Thu Jun  2 20:19:36 2016] str_split(): Server
+[Thu Jun  2 20:19:36 2016] str_split(): Alloush
+[Thu Jun  2 20:19:36 2016] str_split(): LOGIN_ACK
+[Thu Jun  2 20:19:43 2016] Send_Packet(): Sending: 3$Alloush$SERVER$Ayoush via socket 3
+[Thu Jun  2 20:19:43 2016] Recive_Packet(): Recived: 3$SERVER$Alloush$OFFLINE``
+[Thu Jun  2 20:19:43 2016] str_split(): Split "3$SERVER$Alloush$OFFLINE" in 4 tokens
+[Thu Jun  2 20:19:43 2016] str_split(): 3
+[Thu Jun  2 20:19:43 2016] str_split(): SERVER
+[Thu Jun  2 20:19:43 2016] str_split(): Alloush
+[Thu Jun  2 20:19:43 2016] str_split(): OFFLINE
+[Thu Jun  2 20:20:16 2016] Recive_Packet(): Recived: 
+[Thu Jun  2 20:20:16 2016] Recive_Packet(): Connection Lost!
+[Thu Jun  2 20:20:16 2016] main(): Packet Recive Error

@@ -1,0 +1,73 @@
+[Thu Jun  2 20:18:49 2016] main(): Loading Clients...
+[Thu Jun  2 20:18:49 2016] Load_CDFs(): Loaded: Alloush.cdf
+[Thu Jun  2 20:18:49 2016] Load_CDFs(): Header Loaded: Alloush(AaLyIa33) 3 Messages
+[Thu Jun  2 20:18:49 2016] msq_cpy(): Copied: Ayoush: Hii Alloush
+[Thu Jun  2 20:18:49 2016] msq_cpy(): Copied: Walaa: Hii
+[Thu Jun  2 20:18:49 2016] msq_cpy(): Copied: Ayoush: Kifakk??
+[Thu Jun  2 20:18:49 2016] msq_cpy(): Copied: : 8^»÷ÿ
+[Thu Jun  2 20:18:49 2016] insert_cli(): Inserted: Alloush(AaLyIa33)
+[Thu Jun  2 20:18:49 2016] Load_CDFs(): Loaded: Walaa.cdf
+[Thu Jun  2 20:18:49 2016] Load_CDFs(): Header Loaded: Walaa(Wal123) 3 Messages
+[Thu Jun  2 20:18:49 2016] msq_cpy(): Copied: Alloush: Hii
+[Thu Jun  2 20:18:49 2016] msq_cpy(): Copied: Ayoush: Hi
+[Thu Jun  2 20:18:49 2016] msq_cpy(): Copied: Alloush: Kifik??
+[Thu Jun  2 20:18:49 2016] msq_cpy(): Copied: : x^»÷ÿ
+[Thu Jun  2 20:18:49 2016] insert_cli(): Inserted: Walaa(Wal123)
+[Thu Jun  2 20:18:49 2016] Load_CDFs(): Loaded: Ayoush.cdf
+[Thu Jun  2 20:18:49 2016] Load_CDFs(): Header Loaded: Ayoush(Chebaa123) 3 Messages
+[Thu Jun  2 20:18:49 2016] msq_cpy(): Copied: Alloush: Hii
+[Thu Jun  2 20:18:49 2016] msq_cpy(): Copied: Alloush: Kifik??
+[Thu Jun  2 20:18:49 2016] msq_cpy(): Copied: Walaa: Hii
+[Thu Jun  2 20:18:49 2016] msq_cpy(): Copied: : x^»÷ÿ
+[Thu Jun  2 20:18:49 2016] insert_cli(): Inserted: Ayoush(Chebaa123)
+[Thu Jun  2 20:18:49 2016] main(): Loading Complete!
+[Thu Jun  2 20:18:49 2016] main(): Creating Socket....		
+[Thu Jun  2 20:18:49 2016] main(): Binding socket 3 with 127.0.0.1 and port 1024
+[Thu Jun  2 20:18:49 2016] main(): Atempting to Listen.....		
+[Thu Jun  2 20:19:21 2016] main(): accept(): 4
+[Thu Jun  2 20:19:35 2016] Recive_Packet(): Recived: 1$Alloush$SERVER$LOGIN_REQ
+[Thu Jun  2 20:19:35 2016] str_split(): Split "1$Alloush$SERVER$LOGIN_REQ" in 4 tokens
+[Thu Jun  2 20:19:35 2016] str_split(): 1
+[Thu Jun  2 20:19:35 2016] str_split(): Alloush
+[Thu Jun  2 20:19:35 2016] str_split(): SERVER
+[Thu Jun  2 20:19:35 2016] str_split(): LOGIN_REQ
+[Thu Jun  2 20:19:36 2016] Recive_Packet(): Recived: 1$Alloush$SERVER$Alloush&AaLyIa33ccept(): 4
+[Thu Jun  2 20:19:36 2016] str_split(): Split "1$Alloush$SERVER$Alloush&AaLyIa33" in 4 tokens
+[Thu Jun  2 20:19:36 2016] str_split(): 1
+[Thu Jun  2 20:19:36 2016] str_split(): Alloush
+[Thu Jun  2 20:19:36 2016] str_split(): SERVER
+[Thu Jun  2 20:19:36 2016] str_split(): Alloush&AaLyIa33
+[Thu Jun  2 20:19:36 2016] str_split(): Split "Alloush&AaLyIa33" in 2 tokens
+[Thu Jun  2 20:19:36 2016] str_split(): Alloush
+[Thu Jun  2 20:19:36 2016] str_split(): AaLyIa33
+[Thu Jun  2 20:19:36 2016] Get_cli(): Comparing Ayoush with Alloush
+[Thu Jun  2 20:19:36 2016] Get_cli(): Not Equal (13)
+[Thu Jun  2 20:19:36 2016] Get_cli(): Comparing Walaa with Alloush
+[Thu Jun  2 20:19:36 2016] Get_cli(): Not Equal (22)
+[Thu Jun  2 20:19:36 2016] Get_cli(): Comparing Alloush with Alloush
+[Thu Jun  2 20:19:36 2016] Get_cli(): Alloush Equal Alloush
+[Thu Jun  2 20:19:36 2016] msq_cpy(): Copied: : 8^»÷ÿ
+[Thu Jun  2 20:19:36 2016] msq_cpy(): Copied: Ayoush: Kifakk??
+[Thu Jun  2 20:19:36 2016] msq_cpy(): Copied: Walaa: Hii
+[Thu Jun  2 20:19:36 2016] msq_cpy(): Copied: Ayoush: Hii Alloush
+[Thu Jun  2 20:19:36 2016] msq_cpy(): Copied: : 
+[Thu Jun  2 20:19:36 2016] Send_Packet(): Sending: 1$Server$Alloush$LOGIN_ACK via socket 4
+[Thu Jun  2 20:19:36 2016] msq_cpy(): Source MSQ is NULL!
+[Thu Jun  2 20:19:36 2016] insert_cli(): Inserted: Alloush(AaLyIa33)
+[Thu Jun  2 20:19:36 2016] update(): Update Finished
+[Thu Jun  2 20:19:43 2016] Recive_Packet(): Recived: 3$Alloush$SERVER$Ayoush
+[Thu Jun  2 20:19:43 2016] str_split(): Split "3$Alloush$SERVER$Ayoush" in 4 tokens
+[Thu Jun  2 20:19:43 2016] str_split(): 3
+[Thu Jun  2 20:19:43 2016] str_split(): Alloush
+[Thu Jun  2 20:19:43 2016] str_split(): SERVER
+[Thu Jun  2 20:19:43 2016] str_split(): Ayoush
+[Thu Jun  2 20:19:43 2016] Get_cli(): Comparing Ayoush with Ayoush
+[Thu Jun  2 20:19:43 2016] Get_cli(): Ayoush Equal Ayoush
+[Thu Jun  2 20:19:43 2016] msq_cpy(): Copied: : x^»÷ÿ
+[Thu Jun  2 20:19:43 2016] msq_cpy(): Copied: Walaa: Hii
+[Thu Jun  2 20:19:43 2016] msq_cpy(): Copied: Alloush: Kifik??
+[Thu Jun  2 20:19:43 2016] msq_cpy(): Copied: Alloush: Hii
+[Thu Jun  2 20:19:43 2016] msq_cpy(): Copied: : 
+[Thu Jun  2 20:19:43 2016] Get_cli(): Comparing Alloush with Ayoush
+[Thu Jun  2 20:19:43 2016] Get_cli(): Not Equal (-13)
+[Thu Jun  2 20:19:43 2016] Send_Packet(): Sending: 3$SERVER$Alloush$OFFLINE via socket 4
